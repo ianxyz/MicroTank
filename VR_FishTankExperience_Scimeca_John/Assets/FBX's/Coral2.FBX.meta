@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 0b5f0e745488985408afd212d3d0d73f
+timeCreated: 1473815489
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Coral
+    100002: Coral Ground
+    100004: Coral001
+    100006: Coral002
+    100008: Coral003
+    100010: Coral004
+    100012: Coral005
+    100014: Coral006
+    100016: Coral007
+    100018: Coral008
+    100020: Coral009
+    100022: Coral015
+    100024: Coral016
+    100026: Coral017
+    100028: Coral018
+    100030: Coral019
+    100032: Coral025
+    100034: Coral026
+    100036: Coral027
+    100038: Coral028
+    100040: Coral029
+    100042: Coral030
+    100044: Coral031
+    100046: Coral032
+    100048: Coral033
+    100050: Coral034
+    100052: //RootNode
+    400000: Coral
+    400002: Coral Ground
+    400004: Coral001
+    400006: Coral002
+    400008: Coral003
+    400010: Coral004
+    400012: Coral005
+    400014: Coral006
+    400016: Coral007
+    400018: Coral008
+    400020: Coral009
+    400022: Coral015
+    400024: Coral016
+    400026: Coral017
+    400028: Coral018
+    400030: Coral019
+    400032: Coral025
+    400034: Coral026
+    400036: Coral027
+    400038: Coral028
+    400040: Coral029
+    400042: Coral030
+    400044: Coral031
+    400046: Coral032
+    400048: Coral033
+    400050: Coral034
+    400052: //RootNode
+    2300000: Coral
+    2300002: Coral Ground
+    2300004: Coral001
+    2300006: Coral002
+    2300008: Coral003
+    2300010: Coral004
+    2300012: Coral005
+    2300014: Coral006
+    2300016: Coral007
+    2300018: Coral008
+    2300020: Coral009
+    2300022: Coral015
+    2300024: Coral016
+    2300026: Coral017
+    2300028: Coral018
+    2300030: Coral019
+    2300032: Coral025
+    2300034: Coral026
+    2300036: Coral027
+    2300038: Coral028
+    2300040: Coral029
+    2300042: Coral030
+    2300044: Coral031
+    2300046: Coral032
+    2300048: Coral033
+    2300050: Coral034
+    3300000: Coral
+    3300002: Coral Ground
+    3300004: Coral001
+    3300006: Coral002
+    3300008: Coral003
+    3300010: Coral004
+    3300012: Coral005
+    3300014: Coral006
+    3300016: Coral007
+    3300018: Coral008
+    3300020: Coral009
+    3300022: Coral015
+    3300024: Coral016
+    3300026: Coral017
+    3300028: Coral018
+    3300030: Coral019
+    3300032: Coral025
+    3300034: Coral026
+    3300036: Coral027
+    3300038: Coral028
+    3300040: Coral029
+    3300042: Coral030
+    3300044: Coral031
+    3300046: Coral032
+    3300048: Coral033
+    3300050: Coral034
+    4300000: Coral
+    4300002: Coral001
+    4300004: Coral002
+    4300006: Coral003
+    4300008: Coral004
+    4300010: Coral005
+    4300012: Coral006
+    4300014: Coral007
+    4300016: Coral008
+    4300018: Coral009
+    4300020: Coral015
+    4300022: Coral016
+    4300024: Coral017
+    4300026: Coral018
+    4300028: Coral019
+    4300030: Coral025
+    4300032: Coral026
+    4300034: Coral027
+    4300036: Coral028
+    4300038: Coral029
+    4300040: Coral030
+    4300042: Coral031
+    4300044: Coral032
+    4300046: Coral033
+    4300048: Coral034
+    4300050: Coral Ground
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

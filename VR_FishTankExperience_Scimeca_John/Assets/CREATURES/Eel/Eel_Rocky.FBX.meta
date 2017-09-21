@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 408502b6ff743a54ea8672b40e04f375
+timeCreated: 1473990569
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone003
+    100002: Bone004
+    100004: Bone005
+    100006: Bone006
+    100008: Bone007
+    100010: Bone008
+    100012: Bone009
+    100014: Bone010
+    100016: Bone011
+    100018: Bone012
+    100020: Bone013
+    100022: Bone014
+    100024: Bone015
+    100026: Box001
+    100028: Circle001
+    100030: Circle002
+    100032: Circle003
+    100034: Circle004
+    100036: Circle005
+    100038: Circle006
+    100040: Circle007
+    100042: Circle008
+    100044: Cylinder001
+    100046: //RootNode
+    100048: Group001
+    100050: IK Chain001
+    100052: IK Chain002
+    100054: IK Chain003
+    100056: IK Chain004
+    100058: IK Chain005
+    100060: IK Chain006
+    100062: IK Chain007
+    100064: IK Chain008
+    100066: Plane001
+    100068: Star001
+    100070: Star002
+    400000: Bone003
+    400002: Bone004
+    400004: Bone005
+    400006: Bone006
+    400008: Bone007
+    400010: Bone008
+    400012: Bone009
+    400014: Bone010
+    400016: Bone011
+    400018: Bone012
+    400020: Bone013
+    400022: Bone014
+    400024: Bone015
+    400026: Box001
+    400028: Circle001
+    400030: Circle002
+    400032: Circle003
+    400034: Circle004
+    400036: Circle005
+    400038: Circle006
+    400040: Circle007
+    400042: Circle008
+    400044: Cylinder001
+    400046: //RootNode
+    400048: Group001
+    400050: IK Chain001
+    400052: IK Chain002
+    400054: IK Chain003
+    400056: IK Chain004
+    400058: IK Chain005
+    400060: IK Chain006
+    400062: IK Chain007
+    400064: IK Chain008
+    400066: Plane001
+    400068: Star001
+    400070: Star002
+    2300000: Box001
+    2300002: Plane001
+    3300000: Box001
+    3300002: Plane001
+    4300000: Box001
+    4300002: Plane001
+    4300004: Cylinder001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cylinder001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane001/Group001
+        weight: 1
+      - path: Plane001/Group001/Bone007
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Plane001/Group001/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Plane001/Group001/Circle001
+        weight: 1
+      - path: Plane001/Group001/Circle001/IK Chain008
+        weight: 1
+      - path: Plane001/Group001/Circle002
+        weight: 1
+      - path: Plane001/Group001/Circle002/IK Chain007
+        weight: 1
+      - path: Plane001/Group001/Circle003
+        weight: 1
+      - path: Plane001/Group001/Circle003/IK Chain006
+        weight: 1
+      - path: Plane001/Group001/Circle004
+        weight: 1
+      - path: Plane001/Group001/Circle004/IK Chain005
+        weight: 1
+      - path: Plane001/Group001/Circle005
+        weight: 1
+      - path: Plane001/Group001/Circle005/IK Chain004
+        weight: 1
+      - path: Plane001/Group001/Circle006
+        weight: 1
+      - path: Plane001/Group001/Circle006/IK Chain003
+        weight: 1
+      - path: Plane001/Group001/Circle007
+        weight: 1
+      - path: Plane001/Group001/Circle007/IK Chain002
+        weight: 1
+      - path: Plane001/Group001/Circle008
+        weight: 1
+      - path: Plane001/Group001/Circle008/IK Chain001
+        weight: 1
+      - path: Plane001/Group001/Cylinder001
+        weight: 1
+      - path: Plane001/Group001/Star001
+        weight: 1
+      - path: Plane001/Group001/Star001/Bone003
+        weight: 1
+      - path: Plane001/Group001/Star001/Bone003/Bone004
+        weight: 1
+      - path: Plane001/Group001/Star002
+        weight: 1
+      - path: Plane001/Group001/Star002/Bone005
+        weight: 1
+      - path: Plane001/Group001/Star002/Bone005/Bone006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

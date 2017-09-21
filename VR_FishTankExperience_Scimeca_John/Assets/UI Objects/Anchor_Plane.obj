@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.09.2016 09:53:41
+
+mtllib Anchor_Plane.mtl
+
+#
+# object Anchor_Plane
+#
+
+v  1.8786 1.0265 -8.0373
+v  1.8786 1.0265 26.6827
+v  1.8786 42.6965 26.6827
+v  1.8786 42.6965 -8.0373
+# 4 vertices
+
+vn -1.0000 -0.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0088 0.0067 0.0000
+vt 0.9943 0.0067 0.0000
+vt 0.9943 0.9922 0.0000
+vt 0.0088 0.9922 0.0000
+# 4 texture coords
+
+g Anchor_Plane
+usemtl Material__47
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+
