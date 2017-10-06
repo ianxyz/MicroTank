@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 6d8c2078fde18bd4aa82a6ab59053f19
+timeCreated: 1507271088
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door_Hole013
+    100004: Door_Hole052
+    100006: Door_Hole1
+    100008: Door_Hole10
+    100010: Door_Hole100
+    100012: Door_Hole101
+    100014: Door_Hole102
+    100016: Door_Hole103
+    100018: Door_Hole104
+    100020: Door_Hole105
+    100022: Door_Hole106
+    100024: Door_Hole107
+    100026: Door_Hole108
+    100028: Door_Hole109
+    100030: Door_Hole11
+    100032: Door_Hole110
+    100034: Door_Hole111
+    100036: Door_Hole112
+    100038: Door_Hole113
+    100040: Door_Hole114
+    100042: Door_Hole115
+    100044: Door_Hole116
+    100046: Door_Hole117
+    100048: Door_Hole118
+    100050: Door_Hole119
+    100052: Door_Hole12
+    100054: Door_Hole120
+    100056: Door_Hole121
+    100058: Door_Hole122
+    100060: Door_Hole123
+    100062: Door_Hole124
+    100064: Door_Hole125
+    100066: Door_Hole126
+    100068: Door_Hole127
+    100070: Door_Hole128
+    100072: Door_Hole129
+    100074: Door_Hole13
+    100076: Door_Hole130
+    100078: Door_Hole131
+    100080: Door_Hole14
+    100082: Door_Hole15
+    100084: Door_Hole16
+    100086: Door_Hole17
+    100088: Door_Hole18
+    100090: Door_Hole19
+    100092: Door_Hole2
+    100094: Door_Hole21
+    100096: Door_Hole22
+    100098: Door_Hole23
+    100100: Door_Hole25
+    100102: Door_Hole26
+    100104: Door_Hole27
+    100106: Door_Hole28
+    100108: Door_Hole29
+    100110: Door_Hole3
+    100112: Door_Hole30
+    100114: Door_Hole31
+    100116: Door_Hole32
+    100118: Door_Hole33
+    100120: Door_Hole34
+    100122: Door_Hole35
+    100124: Door_Hole36
+    100126: Door_Hole37
+    100128: Door_Hole38
+    100130: Door_Hole39
+    100132: Door_Hole4
+    100134: Door_Hole40
+    100136: Door_Hole41
+    100138: Door_Hole42
+    100140: Door_Hole43
+    100142: Door_Hole44
+    100144: Door_Hole45
+    100146: Door_Hole46
+    100148: Door_Hole47
+    100150: Door_Hole48
+    100152: Door_Hole49
+    100154: Door_Hole5
+    100156: Door_Hole50
+    100158: Door_Hole51
+    100160: Door_Hole52
+    100162: Door_Hole53
+    100164: Door_Hole54
+    100166: Door_Hole55
+    100168: Door_Hole56
+    100170: Door_Hole57
+    100172: Door_Hole58
+    100174: Door_Hole6
+    100176: Door_Hole60
+    100178: Door_Hole61
+    100180: Door_Hole62
+    100182: Door_Hole63
+    100184: Door_Hole64
+    100186: Door_Hole65
+    100188: Door_Hole66
+    100190: Door_Hole67
+    100192: Door_Hole68
+    100194: Door_Hole69
+    100196: Door_Hole7
+    100198: Door_Hole70
+    100200: Door_Hole71
+    100202: Door_Hole72
+    100204: Door_Hole73
+    100206: Door_Hole74
+    100208: Door_Hole75
+    100210: Door_Hole76
+    100212: Door_Hole77
+    100214: Door_Hole78
+    100216: Door_Hole79
+    100218: Door_Hole8
+    100220: Door_Hole81
+    100222: Door_Hole82
+    100224: Door_Hole83
+    100226: Door_Hole84
+    100228: Door_Hole84 1
+    100230: Door_Hole85
+    100232: Door_Hole86
+    100234: Door_Hole87
+    100236: Door_Hole88
+    100238: Door_Hole89
+    100240: Door_Hole9
+    100242: Door_Hole90
+    100244: Door_Hole91
+    100246: Door_Hole92
+    100248: Door_Hole93
+    100250: Door_Hole94
+    100252: Door_Hole95
+    100254: Door_Hole96
+    100256: Door_Hole97
+    100258: Door_Hole98
+    100260: Door_Hole99
+    400000: //RootNode
+    400002: Door_Hole013
+    400004: Door_Hole052
+    400006: Door_Hole1
+    400008: Door_Hole10
+    400010: Door_Hole100
+    400012: Door_Hole101
+    400014: Door_Hole102
+    400016: Door_Hole103
+    400018: Door_Hole104
+    400020: Door_Hole105
+    400022: Door_Hole106
+    400024: Door_Hole107
+    400026: Door_Hole108
+    400028: Door_Hole109
+    400030: Door_Hole11
+    400032: Door_Hole110
+    400034: Door_Hole111
+    400036: Door_Hole112
+    400038: Door_Hole113
+    400040: Door_Hole114
+    400042: Door_Hole115
+    400044: Door_Hole116
+    400046: Door_Hole117
+    400048: Door_Hole118
+    400050: Door_Hole119
+    400052: Door_Hole12
+    400054: Door_Hole120
+    400056: Door_Hole121
+    400058: Door_Hole122
+    400060: Door_Hole123
+    400062: Door_Hole124
+    400064: Door_Hole125
+    400066: Door_Hole126
+    400068: Door_Hole127
+    400070: Door_Hole128
+    400072: Door_Hole129
+    400074: Door_Hole13
+    400076: Door_Hole130
+    400078: Door_Hole131
+    400080: Door_Hole14
+    400082: Door_Hole15
+    400084: Door_Hole16
+    400086: Door_Hole17
+    400088: Door_Hole18
+    400090: Door_Hole19
+    400092: Door_Hole2
+    400094: Door_Hole21
+    400096: Door_Hole22
+    400098: Door_Hole23
+    400100: Door_Hole25
+    400102: Door_Hole26
+    400104: Door_Hole27
+    400106: Door_Hole28
+    400108: Door_Hole29
+    400110: Door_Hole3
+    400112: Door_Hole30
+    400114: Door_Hole31
+    400116: Door_Hole32
+    400118: Door_Hole33
+    400120: Door_Hole34
+    400122: Door_Hole35
+    400124: Door_Hole36
+    400126: Door_Hole37
+    400128: Door_Hole38
+    400130: Door_Hole39
+    400132: Door_Hole4
+    400134: Door_Hole40
+    400136: Door_Hole41
+    400138: Door_Hole42
+    400140: Door_Hole43
+    400142: Door_Hole44
+    400144: Door_Hole45
+    400146: Door_Hole46
+    400148: Door_Hole47
+    400150: Door_Hole48
+    400152: Door_Hole49
+    400154: Door_Hole5
+    400156: Door_Hole50
+    400158: Door_Hole51
+    400160: Door_Hole52
+    400162: Door_Hole53
+    400164: Door_Hole54
+    400166: Door_Hole55
+    400168: Door_Hole56
+    400170: Door_Hole57
+    400172: Door_Hole58
+    400174: Door_Hole6
+    400176: Door_Hole60
+    400178: Door_Hole61
+    400180: Door_Hole62
+    400182: Door_Hole63
+    400184: Door_Hole64
+    400186: Door_Hole65
+    400188: Door_Hole66
+    400190: Door_Hole67
+    400192: Door_Hole68
+    400194: Door_Hole69
+    400196: Door_Hole7
+    400198: Door_Hole70
+    400200: Door_Hole71
+    400202: Door_Hole72
+    400204: Door_Hole73
+    400206: Door_Hole74
+    400208: Door_Hole75
+    400210: Door_Hole76
+    400212: Door_Hole77
+    400214: Door_Hole78
+    400216: Door_Hole79
+    400218: Door_Hole8
+    400220: Door_Hole81
+    400222: Door_Hole82
+    400224: Door_Hole83
+    400226: Door_Hole84
+    400228: Door_Hole84 1
+    400230: Door_Hole85
+    400232: Door_Hole86
+    400234: Door_Hole87
+    400236: Door_Hole88
+    400238: Door_Hole89
+    400240: Door_Hole9
+    400242: Door_Hole90
+    400244: Door_Hole91
+    400246: Door_Hole92
+    400248: Door_Hole93
+    400250: Door_Hole94
+    400252: Door_Hole95
+    400254: Door_Hole96
+    400256: Door_Hole97
+    400258: Door_Hole98
+    400260: Door_Hole99
+    2300000: Door_Hole013
+    2300002: Door_Hole052
+    2300004: Door_Hole1
+    2300006: Door_Hole10
+    2300008: Door_Hole100
+    2300010: Door_Hole101
+    2300012: Door_Hole102
+    2300014: Door_Hole103
+    2300016: Door_Hole104
+    2300018: Door_Hole105
+    2300020: Door_Hole106
+    2300022: Door_Hole107
+    2300024: Door_Hole108
+    2300026: Door_Hole109
+    2300028: Door_Hole11
+    2300030: Door_Hole110
+    2300032: Door_Hole111
+    2300034: Door_Hole112
+    2300036: Door_Hole113
+    2300038: Door_Hole114
+    2300040: Door_Hole115
+    2300042: Door_Hole116
+    2300044: Door_Hole117
+    2300046: Door_Hole118
+    2300048: Door_Hole119
+    2300050: Door_Hole12
+    2300052: Door_Hole120
+    2300054: Door_Hole121
+    2300056: Door_Hole122
+    2300058: Door_Hole123
+    2300060: Door_Hole124
+    2300062: Door_Hole125
+    2300064: Door_Hole126
+    2300066: Door_Hole127
+    2300068: Door_Hole128
+    2300070: Door_Hole129
+    2300072: Door_Hole13
+    2300074: Door_Hole130
+    2300076: Door_Hole131
+    2300078: Door_Hole14
+    2300080: Door_Hole15
+    2300082: Door_Hole16
+    2300084: Door_Hole17
+    2300086: Door_Hole18
+    2300088: Door_Hole19
+    2300090: Door_Hole2
+    2300092: Door_Hole21
+    2300094: Door_Hole22
+    2300096: Door_Hole23
+    2300098: Door_Hole25
+    2300100: Door_Hole26
+    2300102: Door_Hole27
+    2300104: Door_Hole28
+    2300106: Door_Hole29
+    2300108: Door_Hole3
+    2300110: Door_Hole30
+    2300112: Door_Hole31
+    2300114: Door_Hole32
+    2300116: Door_Hole33
+    2300118: Door_Hole34
+    2300120: Door_Hole35
+    2300122: Door_Hole36
+    2300124: Door_Hole37
+    2300126: Door_Hole38
+    2300128: Door_Hole39
+    2300130: Door_Hole4
+    2300132: Door_Hole40
+    2300134: Door_Hole41
+    2300136: Door_Hole42
+    2300138: Door_Hole43
+    2300140: Door_Hole44
+    2300142: Door_Hole45
+    2300144: Door_Hole46
+    2300146: Door_Hole47
+    2300148: Door_Hole48
+    2300150: Door_Hole49
+    2300152: Door_Hole5
+    2300154: Door_Hole50
+    2300156: Door_Hole51
+    2300158: Door_Hole52
+    2300160: Door_Hole53
+    2300162: Door_Hole54
+    2300164: Door_Hole55
+    2300166: Door_Hole56
+    2300168: Door_Hole57
+    2300170: Door_Hole58
+    2300172: Door_Hole6
+    2300174: Door_Hole60
+    2300176: Door_Hole61
+    2300178: Door_Hole62
+    2300180: Door_Hole63
+    2300182: Door_Hole64
+    2300184: Door_Hole65
+    2300186: Door_Hole66
+    2300188: Door_Hole67
+    2300190: Door_Hole68
+    2300192: Door_Hole69
+    2300194: Door_Hole7
+    2300196: Door_Hole70
+    2300198: Door_Hole71
+    2300200: Door_Hole72
+    2300202: Door_Hole73
+    2300204: Door_Hole74
+    2300206: Door_Hole75
+    2300208: Door_Hole76
+    2300210: Door_Hole77
+    2300212: Door_Hole78
+    2300214: Door_Hole79
+    2300216: Door_Hole8
+    2300218: Door_Hole81
+    2300220: Door_Hole82
+    2300222: Door_Hole83
+    2300224: Door_Hole84
+    2300226: Door_Hole84 1
+    2300228: Door_Hole85
+    2300230: Door_Hole86
+    2300232: Door_Hole87
+    2300234: Door_Hole88
+    2300236: Door_Hole89
+    2300238: Door_Hole9
+    2300240: Door_Hole90
+    2300242: Door_Hole91
+    2300244: Door_Hole92
+    2300246: Door_Hole93
+    2300248: Door_Hole94
+    2300250: Door_Hole95
+    2300252: Door_Hole96
+    2300254: Door_Hole97
+    2300256: Door_Hole98
+    2300258: Door_Hole99
+    3300000: Door_Hole013
+    3300002: Door_Hole052
+    3300004: Door_Hole1
+    3300006: Door_Hole10
+    3300008: Door_Hole100
+    3300010: Door_Hole101
+    3300012: Door_Hole102
+    3300014: Door_Hole103
+    3300016: Door_Hole104
+    3300018: Door_Hole105
+    3300020: Door_Hole106
+    3300022: Door_Hole107
+    3300024: Door_Hole108
+    3300026: Door_Hole109
+    3300028: Door_Hole11
+    3300030: Door_Hole110
+    3300032: Door_Hole111
+    3300034: Door_Hole112
+    3300036: Door_Hole113
+    3300038: Door_Hole114
+    3300040: Door_Hole115
+    3300042: Door_Hole116
+    3300044: Door_Hole117
+    3300046: Door_Hole118
+    3300048: Door_Hole119
+    3300050: Door_Hole12
+    3300052: Door_Hole120
+    3300054: Door_Hole121
+    3300056: Door_Hole122
+    3300058: Door_Hole123
+    3300060: Door_Hole124
+    3300062: Door_Hole125
+    3300064: Door_Hole126
+    3300066: Door_Hole127
+    3300068: Door_Hole128
+    3300070: Door_Hole129
+    3300072: Door_Hole13
+    3300074: Door_Hole130
+    3300076: Door_Hole131
+    3300078: Door_Hole14
+    3300080: Door_Hole15
+    3300082: Door_Hole16
+    3300084: Door_Hole17
+    3300086: Door_Hole18
+    3300088: Door_Hole19
+    3300090: Door_Hole2
+    3300092: Door_Hole21
+    3300094: Door_Hole22
+    3300096: Door_Hole23
+    3300098: Door_Hole25
+    3300100: Door_Hole26
+    3300102: Door_Hole27
+    3300104: Door_Hole28
+    3300106: Door_Hole29
+    3300108: Door_Hole3
+    3300110: Door_Hole30
+    3300112: Door_Hole31
+    3300114: Door_Hole32
+    3300116: Door_Hole33
+    3300118: Door_Hole34
+    3300120: Door_Hole35
+    3300122: Door_Hole36
+    3300124: Door_Hole37
+    3300126: Door_Hole38
+    3300128: Door_Hole39
+    3300130: Door_Hole4
+    3300132: Door_Hole40
+    3300134: Door_Hole41
+    3300136: Door_Hole42
+    3300138: Door_Hole43
+    3300140: Door_Hole44
+    3300142: Door_Hole45
+    3300144: Door_Hole46
+    3300146: Door_Hole47
+    3300148: Door_Hole48
+    3300150: Door_Hole49
+    3300152: Door_Hole5
+    3300154: Door_Hole50
+    3300156: Door_Hole51
+    3300158: Door_Hole52
+    3300160: Door_Hole53
+    3300162: Door_Hole54
+    3300164: Door_Hole55
+    3300166: Door_Hole56
+    3300168: Door_Hole57
+    3300170: Door_Hole58
+    3300172: Door_Hole6
+    3300174: Door_Hole60
+    3300176: Door_Hole61
+    3300178: Door_Hole62
+    3300180: Door_Hole63
+    3300182: Door_Hole64
+    3300184: Door_Hole65
+    3300186: Door_Hole66
+    3300188: Door_Hole67
+    3300190: Door_Hole68
+    3300192: Door_Hole69
+    3300194: Door_Hole7
+    3300196: Door_Hole70
+    3300198: Door_Hole71
+    3300200: Door_Hole72
+    3300202: Door_Hole73
+    3300204: Door_Hole74
+    3300206: Door_Hole75
+    3300208: Door_Hole76
+    3300210: Door_Hole77
+    3300212: Door_Hole78
+    3300214: Door_Hole79
+    3300216: Door_Hole8
+    3300218: Door_Hole81
+    3300220: Door_Hole82
+    3300222: Door_Hole83
+    3300224: Door_Hole84
+    3300226: Door_Hole84 1
+    3300228: Door_Hole85
+    3300230: Door_Hole86
+    3300232: Door_Hole87
+    3300234: Door_Hole88
+    3300236: Door_Hole89
+    3300238: Door_Hole9
+    3300240: Door_Hole90
+    3300242: Door_Hole91
+    3300244: Door_Hole92
+    3300246: Door_Hole93
+    3300248: Door_Hole94
+    3300250: Door_Hole95
+    3300252: Door_Hole96
+    3300254: Door_Hole97
+    3300256: Door_Hole98
+    3300258: Door_Hole99
+    4300000: Door_Hole1
+    4300002: Door_Hole2
+    4300004: Door_Hole3
+    4300006: Door_Hole4
+    4300008: Door_Hole5
+    4300010: Door_Hole6
+    4300012: Door_Hole7
+    4300014: Door_Hole8
+    4300016: Door_Hole9
+    4300018: Door_Hole10
+    4300020: Door_Hole11
+    4300022: Door_Hole12
+    4300024: Door_Hole013
+    4300026: Door_Hole13
+    4300028: Door_Hole14
+    4300030: Door_Hole15
+    4300032: Door_Hole16
+    4300034: Door_Hole17
+    4300036: Door_Hole18
+    4300038: Door_Hole19
+    4300040: Door_Hole21
+    4300042: Door_Hole22
+    4300044: Door_Hole23
+    4300046: Door_Hole25
+    4300048: Door_Hole26
+    4300050: Door_Hole27
+    4300052: Door_Hole28
+    4300054: Door_Hole29
+    4300056: Door_Hole30
+    4300058: Door_Hole31
+    4300060: Door_Hole32
+    4300062: Door_Hole33
+    4300064: Door_Hole34
+    4300066: Door_Hole35
+    4300068: Door_Hole36
+    4300070: Door_Hole37
+    4300072: Door_Hole38
+    4300074: Door_Hole39
+    4300076: Door_Hole40
+    4300078: Door_Hole41
+    4300080: Door_Hole42
+    4300082: Door_Hole43
+    4300084: Door_Hole44
+    4300086: Door_Hole45
+    4300088: Door_Hole46
+    4300090: Door_Hole47
+    4300092: Door_Hole48
+    4300094: Door_Hole49
+    4300096: Door_Hole50
+    4300098: Door_Hole51
+    4300100: Door_Hole052
+    4300102: Door_Hole52
+    4300104: Door_Hole53
+    4300106: Door_Hole54
+    4300108: Door_Hole55
+    4300110: Door_Hole56
+    4300112: Door_Hole57
+    4300114: Door_Hole58
+    4300116: Door_Hole60
+    4300118: Door_Hole61
+    4300120: Door_Hole62
+    4300122: Door_Hole63
+    4300124: Door_Hole64
+    4300126: Door_Hole65
+    4300128: Door_Hole66
+    4300130: Door_Hole67
+    4300132: Door_Hole68
+    4300134: Door_Hole69
+    4300136: Door_Hole70
+    4300138: Door_Hole71
+    4300140: Door_Hole72
+    4300142: Door_Hole73
+    4300144: Door_Hole74
+    4300146: Door_Hole75
+    4300148: Door_Hole76
+    4300150: Door_Hole77
+    4300152: Door_Hole78
+    4300154: Door_Hole79
+    4300156: Door_Hole81
+    4300158: Door_Hole82
+    4300160: Door_Hole83
+    4300162: Door_Hole84
+    4300164: Door_Hole85
+    4300166: Door_Hole86
+    4300168: Door_Hole87
+    4300170: Door_Hole88
+    4300172: Door_Hole89
+    4300174: Door_Hole90
+    4300176: Door_Hole91
+    4300178: Door_Hole92
+    4300180: Door_Hole93
+    4300182: Door_Hole94
+    4300184: Door_Hole95
+    4300186: Door_Hole96
+    4300188: Door_Hole97
+    4300190: Door_Hole98
+    4300192: Door_Hole99
+    4300194: Door_Hole100
+    4300196: Door_Hole101
+    4300198: Door_Hole102
+    4300200: Door_Hole103
+    4300202: Door_Hole104
+    4300204: Door_Hole105
+    4300206: Door_Hole106
+    4300208: Door_Hole107
+    4300210: Door_Hole108
+    4300212: Door_Hole109
+    4300214: Door_Hole110
+    4300216: Door_Hole111
+    4300218: Door_Hole112
+    4300220: Door_Hole113
+    4300222: Door_Hole114
+    4300224: Door_Hole115
+    4300226: Door_Hole116
+    4300228: Door_Hole117
+    4300230: Door_Hole118
+    4300232: Door_Hole119
+    4300234: Door_Hole120
+    4300236: Door_Hole121
+    4300238: Door_Hole122
+    4300240: Door_Hole123
+    4300242: Door_Hole124
+    4300244: Door_Hole125
+    4300246: Door_Hole126
+    4300248: Door_Hole127
+    4300250: Door_Hole128
+    4300252: Door_Hole129
+    4300254: Door_Hole130
+    4300256: Door_Hole131
+    4300258: Door_Hole84
+    7400000: IDle
+    7400002: DoorOpen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IDle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Door_Hole1
+        weight: 1
+      - path: Door_Hole2
+        weight: 1
+      - path: Door_Hole3
+        weight: 1
+      - path: Door_Hole4
+        weight: 1
+      - path: Door_Hole5
+        weight: 1
+      - path: Door_Hole6
+        weight: 1
+      - path: Door_Hole7
+        weight: 1
+      - path: Door_Hole8
+        weight: 1
+      - path: Door_Hole9
+        weight: 1
+      - path: Door_Hole10
+        weight: 1
+      - path: Door_Hole11
+        weight: 1
+      - path: Door_Hole12
+        weight: 1
+      - path: Door_Hole013
+        weight: 1
+      - path: Door_Hole13
+        weight: 1
+      - path: Door_Hole14
+        weight: 1
+      - path: Door_Hole15
+        weight: 1
+      - path: Door_Hole16
+        weight: 1
+      - path: Door_Hole17
+        weight: 1
+      - path: Door_Hole18
+        weight: 1
+      - path: Door_Hole19
+        weight: 1
+      - path: Door_Hole21
+        weight: 1
+      - path: Door_Hole22
+        weight: 1
+      - path: Door_Hole23
+        weight: 1
+      - path: Door_Hole25
+        weight: 1
+      - path: Door_Hole26
+        weight: 1
+      - path: Door_Hole27
+        weight: 1
+      - path: Door_Hole28
+        weight: 1
+      - path: Door_Hole29
+        weight: 1
+      - path: Door_Hole30
+        weight: 1
+      - path: Door_Hole31
+        weight: 1
+      - path: Door_Hole32
+        weight: 1
+      - path: Door_Hole33
+        weight: 1
+      - path: Door_Hole34
+        weight: 1
+      - path: Door_Hole35
+        weight: 1
+      - path: Door_Hole36
+        weight: 1
+      - path: Door_Hole37
+        weight: 1
+      - path: Door_Hole38
+        weight: 1
+      - path: Door_Hole39
+        weight: 1
+      - path: Door_Hole40
+        weight: 1
+      - path: Door_Hole41
+        weight: 1
+      - path: Door_Hole42
+        weight: 1
+      - path: Door_Hole43
+        weight: 1
+      - path: Door_Hole44
+        weight: 1
+      - path: Door_Hole45
+        weight: 1
+      - path: Door_Hole46
+        weight: 1
+      - path: Door_Hole47
+        weight: 1
+      - path: Door_Hole48
+        weight: 1
+      - path: Door_Hole49
+        weight: 1
+      - path: Door_Hole50
+        weight: 1
+      - path: Door_Hole51
+        weight: 1
+      - path: Door_Hole052
+        weight: 1
+      - path: Door_Hole52
+        weight: 1
+      - path: Door_Hole53
+        weight: 1
+      - path: Door_Hole54
+        weight: 1
+      - path: Door_Hole55
+        weight: 1
+      - path: Door_Hole56
+        weight: 1
+      - path: Door_Hole57
+        weight: 1
+      - path: Door_Hole58
+        weight: 1
+      - path: Door_Hole60
+        weight: 1
+      - path: Door_Hole61
+        weight: 1
+      - path: Door_Hole62
+        weight: 1
+      - path: Door_Hole63
+        weight: 1
+      - path: Door_Hole64
+        weight: 1
+      - path: Door_Hole65
+        weight: 1
+      - path: Door_Hole66
+        weight: 1
+      - path: Door_Hole67
+        weight: 1
+      - path: Door_Hole68
+        weight: 1
+      - path: Door_Hole69
+        weight: 1
+      - path: Door_Hole70
+        weight: 1
+      - path: Door_Hole71
+        weight: 1
+      - path: Door_Hole72
+        weight: 1
+      - path: Door_Hole73
+        weight: 1
+      - path: Door_Hole74
+        weight: 1
+      - path: Door_Hole75
+        weight: 1
+      - path: Door_Hole76
+        weight: 1
+      - path: Door_Hole77
+        weight: 1
+      - path: Door_Hole78
+        weight: 1
+      - path: Door_Hole79
+        weight: 1
+      - path: Door_Hole81
+        weight: 1
+      - path: Door_Hole82
+        weight: 1
+      - path: Door_Hole83
+        weight: 1
+      - path: Door_Hole84
+        weight: 1
+      - path: Door_Hole84 1
+        weight: 1
+      - path: Door_Hole85
+        weight: 1
+      - path: Door_Hole86
+        weight: 1
+      - path: Door_Hole87
+        weight: 1
+      - path: Door_Hole88
+        weight: 1
+      - path: Door_Hole89
+        weight: 1
+      - path: Door_Hole90
+        weight: 1
+      - path: Door_Hole91
+        weight: 1
+      - path: Door_Hole92
+        weight: 1
+      - path: Door_Hole93
+        weight: 1
+      - path: Door_Hole94
+        weight: 1
+      - path: Door_Hole95
+        weight: 1
+      - path: Door_Hole96
+        weight: 1
+      - path: Door_Hole97
+        weight: 1
+      - path: Door_Hole98
+        weight: 1
+      - path: Door_Hole99
+        weight: 1
+      - path: Door_Hole100
+        weight: 1
+      - path: Door_Hole101
+        weight: 1
+      - path: Door_Hole102
+        weight: 1
+      - path: Door_Hole103
+        weight: 1
+      - path: Door_Hole104
+        weight: 1
+      - path: Door_Hole105
+        weight: 1
+      - path: Door_Hole106
+        weight: 1
+      - path: Door_Hole107
+        weight: 1
+      - path: Door_Hole108
+        weight: 1
+      - path: Door_Hole109
+        weight: 1
+      - path: Door_Hole110
+        weight: 1
+      - path: Door_Hole111
+        weight: 1
+      - path: Door_Hole112
+        weight: 1
+      - path: Door_Hole113
+        weight: 1
+      - path: Door_Hole114
+        weight: 1
+      - path: Door_Hole115
+        weight: 1
+      - path: Door_Hole116
+        weight: 1
+      - path: Door_Hole117
+        weight: 1
+      - path: Door_Hole118
+        weight: 1
+      - path: Door_Hole119
+        weight: 1
+      - path: Door_Hole120
+        weight: 1
+      - path: Door_Hole121
+        weight: 1
+      - path: Door_Hole122
+        weight: 1
+      - path: Door_Hole123
+        weight: 1
+      - path: Door_Hole124
+        weight: 1
+      - path: Door_Hole125
+        weight: 1
+      - path: Door_Hole126
+        weight: 1
+      - path: Door_Hole127
+        weight: 1
+      - path: Door_Hole128
+        weight: 1
+      - path: Door_Hole129
+        weight: 1
+      - path: Door_Hole130
+        weight: 1
+      - path: Door_Hole131
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DoorOpen
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Door_Hole1
+        weight: 1
+      - path: Door_Hole2
+        weight: 1
+      - path: Door_Hole3
+        weight: 1
+      - path: Door_Hole4
+        weight: 1
+      - path: Door_Hole5
+        weight: 1
+      - path: Door_Hole6
+        weight: 1
+      - path: Door_Hole7
+        weight: 1
+      - path: Door_Hole8
+        weight: 1
+      - path: Door_Hole9
+        weight: 1
+      - path: Door_Hole10
+        weight: 1
+      - path: Door_Hole11
+        weight: 1
+      - path: Door_Hole12
+        weight: 1
+      - path: Door_Hole013
+        weight: 1
+      - path: Door_Hole13
+        weight: 1
+      - path: Door_Hole14
+        weight: 1
+      - path: Door_Hole15
+        weight: 1
+      - path: Door_Hole16
+        weight: 1
+      - path: Door_Hole17
+        weight: 1
+      - path: Door_Hole18
+        weight: 1
+      - path: Door_Hole19
+        weight: 1
+      - path: Door_Hole21
+        weight: 1
+      - path: Door_Hole22
+        weight: 1
+      - path: Door_Hole23
+        weight: 1
+      - path: Door_Hole25
+        weight: 1
+      - path: Door_Hole26
+        weight: 1
+      - path: Door_Hole27
+        weight: 1
+      - path: Door_Hole28
+        weight: 1
+      - path: Door_Hole29
+        weight: 1
+      - path: Door_Hole30
+        weight: 1
+      - path: Door_Hole31
+        weight: 1
+      - path: Door_Hole32
+        weight: 1
+      - path: Door_Hole33
+        weight: 1
+      - path: Door_Hole34
+        weight: 1
+      - path: Door_Hole35
+        weight: 1
+      - path: Door_Hole36
+        weight: 1
+      - path: Door_Hole37
+        weight: 1
+      - path: Door_Hole38
+        weight: 1
+      - path: Door_Hole39
+        weight: 1
+      - path: Door_Hole40
+        weight: 1
+      - path: Door_Hole41
+        weight: 1
+      - path: Door_Hole42
+        weight: 1
+      - path: Door_Hole43
+        weight: 1
+      - path: Door_Hole44
+        weight: 1
+      - path: Door_Hole45
+        weight: 1
+      - path: Door_Hole46
+        weight: 1
+      - path: Door_Hole47
+        weight: 1
+      - path: Door_Hole48
+        weight: 1
+      - path: Door_Hole49
+        weight: 1
+      - path: Door_Hole50
+        weight: 1
+      - path: Door_Hole51
+        weight: 1
+      - path: Door_Hole052
+        weight: 1
+      - path: Door_Hole52
+        weight: 1
+      - path: Door_Hole53
+        weight: 1
+      - path: Door_Hole54
+        weight: 1
+      - path: Door_Hole55
+        weight: 1
+      - path: Door_Hole56
+        weight: 1
+      - path: Door_Hole57
+        weight: 1
+      - path: Door_Hole58
+        weight: 1
+      - path: Door_Hole60
+        weight: 1
+      - path: Door_Hole61
+        weight: 1
+      - path: Door_Hole62
+        weight: 1
+      - path: Door_Hole63
+        weight: 1
+      - path: Door_Hole64
+        weight: 1
+      - path: Door_Hole65
+        weight: 1
+      - path: Door_Hole66
+        weight: 1
+      - path: Door_Hole67
+        weight: 1
+      - path: Door_Hole68
+        weight: 1
+      - path: Door_Hole69
+        weight: 1
+      - path: Door_Hole70
+        weight: 1
+      - path: Door_Hole71
+        weight: 1
+      - path: Door_Hole72
+        weight: 1
+      - path: Door_Hole73
+        weight: 1
+      - path: Door_Hole74
+        weight: 1
+      - path: Door_Hole75
+        weight: 1
+      - path: Door_Hole76
+        weight: 1
+      - path: Door_Hole77
+        weight: 1
+      - path: Door_Hole78
+        weight: 1
+      - path: Door_Hole79
+        weight: 1
+      - path: Door_Hole81
+        weight: 1
+      - path: Door_Hole82
+        weight: 1
+      - path: Door_Hole83
+        weight: 1
+      - path: Door_Hole84
+        weight: 1
+      - path: Door_Hole84 1
+        weight: 1
+      - path: Door_Hole85
+        weight: 1
+      - path: Door_Hole86
+        weight: 1
+      - path: Door_Hole87
+        weight: 1
+      - path: Door_Hole88
+        weight: 1
+      - path: Door_Hole89
+        weight: 1
+      - path: Door_Hole90
+        weight: 1
+      - path: Door_Hole91
+        weight: 1
+      - path: Door_Hole92
+        weight: 1
+      - path: Door_Hole93
+        weight: 1
+      - path: Door_Hole94
+        weight: 1
+      - path: Door_Hole95
+        weight: 1
+      - path: Door_Hole96
+        weight: 1
+      - path: Door_Hole97
+        weight: 1
+      - path: Door_Hole98
+        weight: 1
+      - path: Door_Hole99
+        weight: 1
+      - path: Door_Hole100
+        weight: 1
+      - path: Door_Hole101
+        weight: 1
+      - path: Door_Hole102
+        weight: 1
+      - path: Door_Hole103
+        weight: 1
+      - path: Door_Hole104
+        weight: 1
+      - path: Door_Hole105
+        weight: 1
+      - path: Door_Hole106
+        weight: 1
+      - path: Door_Hole107
+        weight: 1
+      - path: Door_Hole108
+        weight: 1
+      - path: Door_Hole109
+        weight: 1
+      - path: Door_Hole110
+        weight: 1
+      - path: Door_Hole111
+        weight: 1
+      - path: Door_Hole112
+        weight: 1
+      - path: Door_Hole113
+        weight: 1
+      - path: Door_Hole114
+        weight: 1
+      - path: Door_Hole115
+        weight: 1
+      - path: Door_Hole116
+        weight: 1
+      - path: Door_Hole117
+        weight: 1
+      - path: Door_Hole118
+        weight: 1
+      - path: Door_Hole119
+        weight: 1
+      - path: Door_Hole120
+        weight: 1
+      - path: Door_Hole121
+        weight: 1
+      - path: Door_Hole122
+        weight: 1
+      - path: Door_Hole123
+        weight: 1
+      - path: Door_Hole124
+        weight: 1
+      - path: Door_Hole125
+        weight: 1
+      - path: Door_Hole126
+        weight: 1
+      - path: Door_Hole127
+        weight: 1
+      - path: Door_Hole128
+        weight: 1
+      - path: Door_Hole129
+        weight: 1
+      - path: Door_Hole130
+        weight: 1
+      - path: Door_Hole131
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
