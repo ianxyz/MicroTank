@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: f7310efe54ec74e45a49df3716ccef24
+timeCreated: 1507404117
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Dna_Helix
+    100022: Dna_Helix001
+    100024: Dna_Helix002
+    100026: Dna_Helix003
+    100028: Dna_Helix004
+    100030: Dna_Helix005
+    100032: Dna_Helix006
+    100034: Dna_Helix007
+    100036: Dna_Helix008
+    100038: Dna_Helix009
+    100040: //RootNode
+    100042: Gold
+    100044: Hinge_Cylander
+    100046: Hinge_Cylander001
+    100048: Hinge_Thing002
+    100050: Hinge_Thing003
+    100052: Hinge_Thing004
+    100054: Hinge_Thing1
+    100056: Lock
+    100058: Object001
+    100060: Object002
+    100062: Science_Plane
+    100064: Test_Tube
+    100066: Test_Tube001
+    100068: Test_Tube002
+    100070: Test_Tube003
+    100072: Test_Tube004
+    100074: TestTube_Stopper
+    100076: TestTube_Stopper001
+    100078: TestTube_Stopper002
+    100080: TestTube_Stopper003
+    100082: TestTube_Stopper004
+    100084: Testube
+    100086: Testube001
+    100088: Testube002
+    100090: Testube003
+    100092: Testube004
+    100094: Treasure Box_Connector
+    100096: Treasure Box_Connectorr_Lid
+    100098: Treasure_Lid_Bottom
+    100100: Treasure_Lid_Top
+    100102: Tresure_Box_Base
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Dna_Helix
+    400022: Dna_Helix001
+    400024: Dna_Helix002
+    400026: Dna_Helix003
+    400028: Dna_Helix004
+    400030: Dna_Helix005
+    400032: Dna_Helix006
+    400034: Dna_Helix007
+    400036: Dna_Helix008
+    400038: Dna_Helix009
+    400040: //RootNode
+    400042: Gold
+    400044: Hinge_Cylander
+    400046: Hinge_Cylander001
+    400048: Hinge_Thing002
+    400050: Hinge_Thing003
+    400052: Hinge_Thing004
+    400054: Hinge_Thing1
+    400056: Lock
+    400058: Object001
+    400060: Object002
+    400062: Science_Plane
+    400064: Test_Tube
+    400066: Test_Tube001
+    400068: Test_Tube002
+    400070: Test_Tube003
+    400072: Test_Tube004
+    400074: TestTube_Stopper
+    400076: TestTube_Stopper001
+    400078: TestTube_Stopper002
+    400080: TestTube_Stopper003
+    400082: TestTube_Stopper004
+    400084: Testube
+    400086: Testube001
+    400088: Testube002
+    400090: Testube003
+    400092: Testube004
+    400094: Treasure Box_Connector
+    400096: Treasure Box_Connectorr_Lid
+    400098: Treasure_Lid_Bottom
+    400100: Treasure_Lid_Top
+    400102: Tresure_Box_Base
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Dna_Helix
+    2300022: Dna_Helix001
+    2300024: Dna_Helix002
+    2300026: Dna_Helix003
+    2300028: Dna_Helix004
+    2300030: Dna_Helix005
+    2300032: Dna_Helix006
+    2300034: Dna_Helix007
+    2300036: Dna_Helix008
+    2300038: Dna_Helix009
+    2300040: Gold
+    2300042: Hinge_Cylander
+    2300044: Hinge_Cylander001
+    2300046: Hinge_Thing002
+    2300048: Hinge_Thing003
+    2300050: Hinge_Thing004
+    2300052: Hinge_Thing1
+    2300054: Lock
+    2300056: Object001
+    2300058: Object002
+    2300060: Science_Plane
+    2300062: TestTube_Stopper
+    2300064: TestTube_Stopper001
+    2300066: TestTube_Stopper002
+    2300068: TestTube_Stopper003
+    2300070: TestTube_Stopper004
+    2300072: Testube
+    2300074: Testube001
+    2300076: Testube002
+    2300078: Testube003
+    2300080: Testube004
+    2300082: Treasure Box_Connector
+    2300084: Treasure Box_Connectorr_Lid
+    2300086: Treasure_Lid_Bottom
+    2300088: Treasure_Lid_Top
+    2300090: Tresure_Box_Base
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Dna_Helix
+    3300022: Dna_Helix001
+    3300024: Dna_Helix002
+    3300026: Dna_Helix003
+    3300028: Dna_Helix004
+    3300030: Dna_Helix005
+    3300032: Dna_Helix006
+    3300034: Dna_Helix007
+    3300036: Dna_Helix008
+    3300038: Dna_Helix009
+    3300040: Gold
+    3300042: Hinge_Cylander
+    3300044: Hinge_Cylander001
+    3300046: Hinge_Thing002
+    3300048: Hinge_Thing003
+    3300050: Hinge_Thing004
+    3300052: Hinge_Thing1
+    3300054: Lock
+    3300056: Object001
+    3300058: Object002
+    3300060: Science_Plane
+    3300062: TestTube_Stopper
+    3300064: TestTube_Stopper001
+    3300066: TestTube_Stopper002
+    3300068: TestTube_Stopper003
+    3300070: TestTube_Stopper004
+    3300072: Testube
+    3300074: Testube001
+    3300076: Testube002
+    3300078: Testube003
+    3300080: Testube004
+    3300082: Treasure Box_Connector
+    3300084: Treasure Box_Connectorr_Lid
+    3300086: Treasure_Lid_Bottom
+    3300088: Treasure_Lid_Top
+    3300090: Tresure_Box_Base
+    4300000: Treasure_Lid_Top
+    4300002: Treasure_Lid_Bottom
+    4300004: Treasure Box_Connectorr_Lid
+    4300006: Hinge_Thing004
+    4300008: Hinge_Thing1
+    4300010: Lock
+    4300012: Box005
+    4300014: Box004
+    4300016: Box006
+    4300018: Box003
+    4300020: Tresure_Box_Base
+    4300022: Treasure Box_Connector
+    4300024: Hinge_Thing003
+    4300026: Hinge_Thing002
+    4300028: Hinge_Cylander
+    4300030: Hinge_Cylander001
+    4300032: Box001
+    4300034: Box002
+    4300036: Object001
+    4300038: Object002
+    4300040: Box007
+    4300042: Box008
+    4300044: Box009
+    4300046: Box010
+    4300048: Gold
+    4300050: Science_Plane
+    4300052: TestTube_Stopper003
+    4300054: Dna_Helix006
+    4300056: Dna_Helix007
+    4300058: Testube003
+    4300060: TestTube_Stopper004
+    4300062: Dna_Helix008
+    4300064: Dna_Helix009
+    4300066: Testube004
+    4300068: TestTube_Stopper002
+    4300070: Dna_Helix004
+    4300072: Dna_Helix005
+    4300074: Testube002
+    4300076: TestTube_Stopper001
+    4300078: Dna_Helix002
+    4300080: Dna_Helix003
+    4300082: Testube001
+    4300084: TestTube_Stopper
+    4300086: Dna_Helix
+    4300088: Dna_Helix001
+    4300090: Testube
+    7400000: Eklof_Chest_Loop
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Eklof_Chest_Loop
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 337
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Gold
+        weight: 1
+      - path: Gold/Science_Plane
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube/TestTube_Stopper
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube/TestTube_Stopper/Dna_Helix
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube/TestTube_Stopper/Dna_Helix001
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube/TestTube_Stopper/Testube
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube001
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube001/TestTube_Stopper001
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube001/TestTube_Stopper001/Dna_Helix002
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube001/TestTube_Stopper001/Dna_Helix003
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube001/TestTube_Stopper001/Testube001
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube002
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube002/TestTube_Stopper002
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube002/TestTube_Stopper002/Dna_Helix004
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube002/TestTube_Stopper002/Dna_Helix005
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube002/TestTube_Stopper002/Testube002
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube003
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube003/TestTube_Stopper003
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube003/TestTube_Stopper003/Dna_Helix006
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube003/TestTube_Stopper003/Dna_Helix007
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube003/TestTube_Stopper003/Testube003
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube004
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube004/TestTube_Stopper004
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube004/TestTube_Stopper004/Dna_Helix008
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube004/TestTube_Stopper004/Dna_Helix009
+        weight: 1
+      - path: Gold/Science_Plane/Test_Tube004/TestTube_Stopper004/Testube004
+        weight: 1
+      - path: Hinge_Cylander
+        weight: 1
+      - path: Hinge_Cylander001
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Treasure_Lid_Top
+        weight: 1
+      - path: Treasure_Lid_Top/Box003
+        weight: 1
+      - path: Treasure_Lid_Top/Box004
+        weight: 1
+      - path: Treasure_Lid_Top/Box005
+        weight: 1
+      - path: Treasure_Lid_Top/Box006
+        weight: 1
+      - path: Treasure_Lid_Top/Hinge_Thing1
+        weight: 1
+      - path: Treasure_Lid_Top/Hinge_Thing004
+        weight: 1
+      - path: Treasure_Lid_Top/Lock
+        weight: 1
+      - path: Treasure_Lid_Top/Treasure Box_Connectorr_Lid
+        weight: 1
+      - path: Treasure_Lid_Top/Treasure_Lid_Bottom
+        weight: 1
+      - path: Tresure_Box_Base
+        weight: 1
+      - path: Tresure_Box_Base/Hinge_Thing002
+        weight: 1
+      - path: Tresure_Box_Base/Hinge_Thing003
+        weight: 1
+      - path: Tresure_Box_Base/Treasure Box_Connector
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

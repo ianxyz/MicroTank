@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 95b7f8b72b009dc48a248e02079f2dd5
+timeCreated: 1507398444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Circle018
+    100002: Circle019
+    100004: Circle020
+    100006: Circle021
+    100008: Circle022
+    100010: Circle023
+    100012: Circle024
+    100014: Circle026
+    100016: Circle027
+    100018: Circle028
+    100020: Circle029
+    100022: Circle030
+    100024: Circle031
+    100026: //RootNode
+    100028: Filter_Main_Box
+    100030: Filter_Tube
+    400000: Circle018
+    400002: Circle019
+    400004: Circle020
+    400006: Circle021
+    400008: Circle022
+    400010: Circle023
+    400012: Circle024
+    400014: Circle026
+    400016: Circle027
+    400018: Circle028
+    400020: Circle029
+    400022: Circle030
+    400024: Circle031
+    400026: //RootNode
+    400028: Filter_Main_Box
+    400030: Filter_Tube
+    2300000: Circle018
+    2300002: Circle019
+    2300004: Circle020
+    2300006: Circle021
+    2300008: Circle022
+    2300010: Circle023
+    2300012: Circle024
+    2300014: Circle026
+    2300016: Circle027
+    2300018: Circle028
+    2300020: Circle029
+    2300022: Circle030
+    2300024: Circle031
+    2300026: Filter_Main_Box
+    2300028: Filter_Tube
+    3300000: Circle018
+    3300002: Circle019
+    3300004: Circle020
+    3300006: Circle021
+    3300008: Circle022
+    3300010: Circle023
+    3300012: Circle024
+    3300014: Circle026
+    3300016: Circle027
+    3300018: Circle028
+    3300020: Circle029
+    3300022: Circle030
+    3300024: Circle031
+    3300026: Filter_Main_Box
+    3300028: Filter_Tube
+    4300000: Filter_Main_Box
+    4300002: Circle020
+    4300004: Circle027
+    4300006: Circle026
+    4300008: Circle018
+    4300010: Circle029
+    4300012: Circle028
+    4300014: Circle019
+    4300016: Circle024
+    4300018: Circle023
+    4300020: Circle021
+    4300022: Circle030
+    4300024: Circle022
+    4300026: Circle031
+    4300028: Filter_Tube
+    7400000: Filter_Animation
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Filter_Animation
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Filter_Main_Box
+        weight: 1
+      - path: Filter_Main_Box/Circle018
+        weight: 1
+      - path: Filter_Main_Box/Circle018/Circle028
+        weight: 1
+      - path: Filter_Main_Box/Circle018/Circle029
+        weight: 1
+      - path: Filter_Main_Box/Circle019
+        weight: 1
+      - path: Filter_Main_Box/Circle019/Circle023
+        weight: 1
+      - path: Filter_Main_Box/Circle019/Circle024
+        weight: 1
+      - path: Filter_Main_Box/Circle020
+        weight: 1
+      - path: Filter_Main_Box/Circle020/Circle026
+        weight: 1
+      - path: Filter_Main_Box/Circle020/Circle027
+        weight: 1
+      - path: Filter_Main_Box/Circle021
+        weight: 1
+      - path: Filter_Main_Box/Circle021/Circle030
+        weight: 1
+      - path: Filter_Main_Box/Circle022
+        weight: 1
+      - path: Filter_Main_Box/Circle022/Circle031
+        weight: 1
+      - path: Filter_Main_Box/Filter_Tube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
