@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 10
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 61
+  controlID: 11
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 62
+  controlID: 12
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -349,9 +349,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -38.505043, y: 4.0901337, z: -25.309828}
+    m_Target: {x: -71.389885, y: 8.2896595, z: 31.138035}
     speed: 2
-    m_Value: {x: -38.505043, y: 4.0901337, z: -25.309828}
+    m_Value: {x: -71.389885, y: 8.2896595, z: 31.138035}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -374,13 +374,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.050024457, y: -0.9477282, z: 0.18658806, w: -0.2539635}
+    m_Target: {x: -0.0055755377, y: -0.53803873, z: -0.0035354951, w: 0.8428986}
     speed: 2
-    m_Value: {x: -0.05002436, y: -0.9477264, z: 0.1865877, w: -0.25396302}
+    m_Value: {x: -0.0055755177, y: -0.5380368, z: -0.0035354826, w: 0.84289557}
   m_Size:
-    m_Target: 59.808975
+    m_Target: 10.232104
     speed: 2
-    m_Value: 59.808975
+    m_Value: 10.232104
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -454,19 +454,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/FBX's
+    - Assets/Materials/Scifi_Mats/Steel
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/FBX's
+  - Assets/Materials/Scifi_Mats/Steel
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\MicroTank\VR_FishTankExperience_Scimeca_John
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 111}
-    m_SelectedIDs: f02d0000
-    m_LastClickedID: 11760
-    m_ExpandedIDs: 00000000c0250000e625000090270000342a0000622a0000f02d0000d42f000078300000dc3000004e35000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 337}
+    m_SelectedIDs: 56310000
+    m_LastClickedID: 12630
+    m_ExpandedIDs: 00000000c0250000e6250000c8270000e02a0000102b0000ae2e0000983000003c310000ac3100007c36000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -494,7 +494,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c0250000e625000090270000342a0000622a0000f02d0000d42f000078300000dc3000004e350000
+    m_ExpandedIDs: 00000000c0250000e6250000c8270000e02a0000102b0000ae2e0000983000003c310000ac3100007c360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,7 +546,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 98}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 57
   m_DirectoriesAreaWidth: 183
 --- !u!114 &16
@@ -609,10 +609,10 @@ MonoBehaviour:
     width: 394
     height: 601
   m_TreeViewState:
-    scrollPos: {x: 0, y: 4664}
-    m_SelectedIDs: 12f5ffff
-    m_LastClickedID: -2798
-    m_ExpandedIDs: 1c73f9ff1e73f9ff723ffcff743ffcff8e63fcffe232fdff2833fdff5833fdff5a33fdff5c33fdff5e33fdff6033fdff6233fdff6433fdff6633fdff6a33fdff6c33fdffca85ffff22c2ffffdcd8ffff7aefffff7cfaffffe6fbffff00000000
+    scrollPos: {x: 0, y: 592}
+    m_SelectedIDs: b2eaffff
+    m_LastClickedID: -5454
+    m_ExpandedIDs: 92eaffff94eaffffd6eaffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
