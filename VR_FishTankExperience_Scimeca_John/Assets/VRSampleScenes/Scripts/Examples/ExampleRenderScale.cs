@@ -8,11 +8,14 @@ namespace VRStandardAssets.Examples
     public class ExampleRenderScale : MonoBehaviour
     {
         [SerializeField] private float m_RenderScale = 1.5f;              //The render scale. Higher numbers = better quality, but trades performance
-	 
 
-	    void Start ()
+
+        [SerializeField] private float eyeTextureResolutionScale = 0.0f;      //Defined the variable to keep from erroring
+
+
+        void Start ()
         {
-            UnityEngine.XR.XRSettings.eyeTextureResolutionScale = m_RenderScale;
+           // UnityEngine.VR.VRSettings.eyeTextureResolutionScale = m_RenderScale;
 	    }
     }
 }
