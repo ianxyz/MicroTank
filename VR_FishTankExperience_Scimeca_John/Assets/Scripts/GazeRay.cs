@@ -4,7 +4,7 @@ using System.Collections;
 public class GazeRay : MonoBehaviour {
 
     int InteractiblesLayerMask = 1 << 13;
-    GazeOver gazedAtScript;
+    VRSlider gazedAtScript;
 	// Use this for initialization
 	void Start () {
 	
@@ -17,10 +17,10 @@ public class GazeRay : MonoBehaviour {
         {
             Debug.Log("Near Interactive");
 
-            gazedAtScript = hit.transform.gameObject.GetComponent<GazeOver>();
+            gazedAtScript = hit.transform.gameObject.GetComponent<VRSlider>();
 
             gazedAtScript.gazedAt = true;
-
+            
 
 
            // gazedAt.HP = true;

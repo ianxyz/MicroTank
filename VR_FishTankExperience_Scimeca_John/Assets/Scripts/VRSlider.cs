@@ -1,14 +1,17 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class VRSlider: MonoBehaviour {
     //How long it takes to fill the slider
     public float filltime = 2f;
+    public bool gazedAt = false;
+
     //Private variables
     private Slider mySlider;
     private float timer;
-    private bool gazedAt;
+  
     private Coroutine fillBarRoutine;
 
     private float timerRemain;
@@ -17,34 +20,34 @@ public class VRSlider: MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         mySlider = GetComponent<Slider>();
-        if (mySlider == null) Debug.Log("Please Add a Slider Component to this Gameobject");
+       // if (mySlider == null) Debug.Log("Please Add a Slider Component to this Gameobject");
 
 		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
-    //PointerEnter
-    public void PointerEnter()
-    {
-        gazedAt = true;
-        fillBarRoutine = StartCoroutine(FillBar());
 
-    }
-    //PointerExit
-    public void PointerExit()
-    {
-        gazedAt = false;
-        if (fillBarRoutine != null)
+        if (gazedAt == true)
         {
-            StopCoroutine(fillBarRoutine);
+            timer += Time.deltaTime;
+            mySlider.value = timer / filltime;
+            if (timer >= filltime)
+            {
+                OnBarFilled();
+            }
         }
-        timer = 0f;
-        mySlider.value = 0f;
+
+        if (gazedAt == false)
+        {
+            timer = 0;
+            mySlider.value = 0f;
+        }
+
 
     }
+   
+    
     //Fill the bar
     private IEnumerator FillBar()
     {
@@ -84,5 +87,7 @@ public class VRSlider: MonoBehaviour {
     private void OnBarFilled()
     {
         Debug.Log("Do something amazing. Aka Load Fishtank3.");
+        SceneManager.LoadScene("FISHTANK03", LoadSceneMode.Single);
+
     }
 }
