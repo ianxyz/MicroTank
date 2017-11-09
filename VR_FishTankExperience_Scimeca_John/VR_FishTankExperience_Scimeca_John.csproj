@@ -220,6 +220,11 @@
     <Compile Include="Assets\Nurface\DemoAssets\Scripts\DemoSceneLoader.cs" />
     <Compile Include="Assets\Nurface\DemoAssets\Scripts\EditorMouseLook.cs" />
     <Compile Include="Assets\Nurface\GoogleVRAndGearVR\Scripts\VRBuildSettingsOptions.cs" />
+    <Compile Include="Assets\Scripts\GazeOver.cs" />
+    <Compile Include="Assets\Scripts\GazeRay.cs" />
+    <Compile Include="Assets\Scripts\VRSlider.cs" />
+    <Compile Include="Assets\Scripts\VolumetricLight.cs" />
+    <Compile Include="Assets\Scripts\VolumetricLightRenderer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -362,7 +367,6 @@
     <Compile Include="Assets\VRStandardAssets\Scripts\BarManager.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\ExampleInteractiveItem.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\MyWarpPointScript.cs" />
-    <Compile Include="Assets\VRStandardAssets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\RandomTestAssets\DestroyAfterTime.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\RandomTestAssets\EnemyBehaviorBasic.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\RandomTestAssets\EnemySpawnBasic.cs" />
@@ -378,6 +382,15 @@
     <Compile Include="Assets\VRStandardAssets\Scripts\shootProjectile.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Glass Shaders\Demo\Font\3D Texte 1Sided 1.shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass (Fast).shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass Reflection (Advanced) Old.shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass Reflection (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Glass (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Glass (Fast).shader" />
+    <None Include="Assets\Glass Shaders\Glass Reflection (Advanced) Old.shader" />
+    <None Include="Assets\Glass Shaders\Glass Reflection (Advanced).shader" />
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
@@ -395,6 +408,10 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\GoogleVR\Shaders\Video\VideoUnlitShader.shader" />
+    <None Include="Assets\Shaders\BilateralBlur.shader" />
+    <None Include="Assets\Shaders\BlitAdd.shader" />
+    <None Include="Assets\Shaders\VolumetricLight.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />

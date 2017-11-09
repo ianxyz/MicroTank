@@ -128,6 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+    <Compile Include="Assets\Editor\ImageEffects\TonemappingEditor.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Editor\DemoInputManagerEditor.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Editor\PermissionsDemoBuildProcessor.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\ScrollingUIDemo\Editor\PagedScrollbarEditor.cs" />
@@ -153,6 +154,15 @@
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Update.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Glass Shaders\Demo\Font\3D Texte 1Sided 1.shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass (Fast).shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass Reflection (Advanced) Old.shader" />
+    <None Include="Assets\Glass Shaders\Double Sided Glass Reflection (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Glass (Advanced).shader" />
+    <None Include="Assets\Glass Shaders\Glass (Fast).shader" />
+    <None Include="Assets\Glass Shaders\Glass Reflection (Advanced) Old.shader" />
+    <None Include="Assets\Glass Shaders\Glass Reflection (Advanced).shader" />
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
     <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
@@ -170,6 +180,10 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\GoogleVR\Shaders\Video\VideoUnlitShader.shader" />
+    <None Include="Assets\Shaders\BilateralBlur.shader" />
+    <None Include="Assets\Shaders\BlitAdd.shader" />
+    <None Include="Assets\Shaders\VolumetricLight.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
