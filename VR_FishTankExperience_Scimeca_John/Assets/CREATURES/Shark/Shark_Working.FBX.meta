@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 9ace9e05b39d53b49afe484c3c35eb46
+timeCreated: 1510421089
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone002_End
+    100004: Bone007_End
+    100006: Bone009_end
+    100008: Bone011_End
+    100010: Bone013__End
+    100012: Bone015_End
+    100014: Bone016_End
+    100016: Bone_Back_Bottom
+    100018: Bone_Head
+    100020: Bone_Left_Fin
+    100022: Bone_Neck_01
+    100024: Bone_Neck_02
+    100026: Bone_Neck_03
+    100028: Bone_Neck_04
+    100030: Bone_Right_Fin
+    100032: Bone_Top_Back
+    100034: Bone_Top_Fin
+    100036: Jaw_Bone
+    100038: LT_Eye
+    100040: LT_Eye001
+    100042: Shark
+    100044: //RootNode
+    100046: Teeth_Bottom
+    100048: Teeth_Bottom_02
+    100050: Teeth_Top_01
+    100052: Teeth_Top_02
+    400000: Bone002
+    400002: Bone002_End
+    400004: Bone007_End
+    400006: Bone009_end
+    400008: Bone011_End
+    400010: Bone013__End
+    400012: Bone015_End
+    400014: Bone016_End
+    400016: Bone_Back_Bottom
+    400018: Bone_Head
+    400020: Bone_Left_Fin
+    400022: Bone_Neck_01
+    400024: Bone_Neck_02
+    400026: Bone_Neck_03
+    400028: Bone_Neck_04
+    400030: Bone_Right_Fin
+    400032: Bone_Top_Back
+    400034: Bone_Top_Fin
+    400036: Jaw_Bone
+    400038: LT_Eye
+    400040: LT_Eye001
+    400042: Shark
+    400044: //RootNode
+    400046: Teeth_Bottom
+    400048: Teeth_Bottom_02
+    400050: Teeth_Top_01
+    400052: Teeth_Top_02
+    2300000: LT_Eye
+    2300002: LT_Eye001
+    2300004: //RootNode
+    2300006: Teeth_Bottom
+    2300008: Teeth_Bottom_02
+    2300010: Teeth_Top_01
+    2300012: Teeth_Top_02
+    3300000: LT_Eye
+    3300002: LT_Eye001
+    3300004: //RootNode
+    3300006: Teeth_Bottom
+    3300008: Teeth_Bottom_02
+    3300010: Teeth_Top_01
+    3300012: Teeth_Top_02
+    4300000: New_Anchor
+    4300002: Shark
+    4300004: Teeth_Top_02
+    4300006: Teeth_Top_01
+    4300008: LT_Eye001
+    4300010: LT_Eye
+    4300012: Teeth_Bottom_02
+    4300014: Teeth_Bottom
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Shark
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 624
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone002_End
+        weight: 1
+      - path: Bone_Head
+        weight: 1
+      - path: Bone_Neck_01
+        weight: 1
+      - path: Bone_Neck_02
+        weight: 1
+      - path: Bone_Neck_02/Bone015_End
+        weight: 1
+      - path: Bone_Neck_02/Bone016_End
+        weight: 1
+      - path: Bone_Neck_02/Bone_Left_Fin
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04/Bone007_End
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04/Bone007_End/Bone_Back_Bottom
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04/Bone007_End/Bone_Back_Bottom/Bone013__End
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04/Bone007_End/Bone_Top_Back
+        weight: 1
+      - path: Bone_Neck_02/Bone_Neck_03/Bone_Neck_04/Bone007_End/Bone_Top_Back/Bone011_End
+        weight: 1
+      - path: Bone_Neck_02/Bone_Right_Fin
+        weight: 1
+      - path: Bone_Neck_02/Bone_Top_Fin
+        weight: 1
+      - path: Bone_Neck_02/Bone_Top_Fin/Bone009_end
+        weight: 1
+      - path: Jaw_Bone
+        weight: 1
+      - path: LT_Eye
+        weight: 1
+      - path: LT_Eye001
+        weight: 1
+      - path: Shark
+        weight: 1
+      - path: Teeth_Bottom
+        weight: 1
+      - path: Teeth_Bottom_02
+        weight: 1
+      - path: Teeth_Top_01
+        weight: 1
+      - path: Teeth_Top_02
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

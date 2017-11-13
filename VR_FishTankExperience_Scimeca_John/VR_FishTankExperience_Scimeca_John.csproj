@@ -225,6 +225,8 @@
     <Compile Include="Assets\Scripts\VRSlider.cs" />
     <Compile Include="Assets\Scripts\VolumetricLight.cs" />
     <Compile Include="Assets\Scripts\VolumetricLightRenderer.cs" />
+    <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Fader.cs" />
+    <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Initiate.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -411,6 +413,7 @@
     <None Include="Assets\Shaders\BilateralBlur.shader" />
     <None Include="Assets\Shaders\BlitAdd.shader" />
     <None Include="Assets\Shaders\VolumetricLight.shader" />
+    <None Include="Assets\Simple Scene Fade Load System\ReadMeFirst.txt" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />

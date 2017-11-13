@@ -183,6 +183,7 @@
     <None Include="Assets\Shaders\BilateralBlur.shader" />
     <None Include="Assets\Shaders\BlitAdd.shader" />
     <None Include="Assets\Shaders\VolumetricLight.shader" />
+    <None Include="Assets\Simple Scene Fade Load System\ReadMeFirst.txt" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
