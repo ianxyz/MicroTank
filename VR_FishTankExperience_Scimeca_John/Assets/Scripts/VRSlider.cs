@@ -40,8 +40,12 @@ public class VRSlider: MonoBehaviour {
 
         if (gazedAt == false)
         {
-            timer = 0;
-            mySlider.value = 0f;
+            timer -= Time.deltaTime;
+            if (timer < 0)
+            {
+                timer = 0;
+            }
+            mySlider.value = timer / filltime;
         }
 
 

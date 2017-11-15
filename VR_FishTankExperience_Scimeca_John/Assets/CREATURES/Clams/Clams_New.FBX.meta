@@ -133,7 +133,83 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 445
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base_Bone
+        weight: 1
+      - path: Base_Bone/Stem_Bone
+        weight: 1
+      - path: Base_Bone/Stem_Bone/Tip_Bone
+        weight: 1
+      - path: Base_Bone/Stem_Bone/Tip_Bone/Bone_End
+        weight: 1
+      - path: Base_Bone/Top_Clam
+        weight: 1
+      - path: Base_Bone/Top_Clam001
+        weight: 1
+      - path: Tongue
+        weight: 1
+      - path: Top_Clam002
+        weight: 1
+      - path: Top_Clam002/Top_Clam003
+        weight: 1
+      - path: Top_Clam004
+        weight: 1
+      - path: Top_Clam004/Top_Clam005
+        weight: 1
+      - path: Top_Clam006
+        weight: 1
+      - path: Top_Clam006/Top_Clam007
+        weight: 1
+      - path: Top_Clam008
+        weight: 1
+      - path: Top_Clam008/Top_Clam009
+        weight: 1
+      - path: Top_Clam010
+        weight: 1
+      - path: Top_Clam010/Top_Clam011
+        weight: 1
+      - path: Top_Clam012
+        weight: 1
+      - path: Top_Clam012/Top_Clam013
+        weight: 1
+      - path: Top_Clam015
+        weight: 1
+      - path: Top_Clam015/Top_Clam014
+        weight: 1
+      - path: Top_Clam017
+        weight: 1
+      - path: Top_Clam017/Top_Clam016
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

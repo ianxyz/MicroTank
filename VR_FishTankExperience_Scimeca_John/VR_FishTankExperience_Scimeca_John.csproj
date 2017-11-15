@@ -88,6 +88,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Caustics\AnimatedProjector.cs" />
+    <Compile Include="Assets\FBX&apos;s\Materials\Audio_Limiter.cs" />
+    <Compile Include="Assets\GazeRay2MM.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\GVRDemoManager.cs" />
@@ -222,7 +224,10 @@
     <Compile Include="Assets\Nurface\GoogleVRAndGearVR\Scripts\VRBuildSettingsOptions.cs" />
     <Compile Include="Assets\Scripts\GazeOver.cs" />
     <Compile Include="Assets\Scripts\GazeRay.cs" />
+    <Compile Include="Assets\Scripts\GazeRayExit.cs" />
     <Compile Include="Assets\Scripts\VRSlider.cs" />
+    <Compile Include="Assets\Scripts\VRSlider2MainMenu.cs" />
+    <Compile Include="Assets\Scripts\VRSliderExit.cs" />
     <Compile Include="Assets\Scripts\VolumetricLight.cs" />
     <Compile Include="Assets\Scripts\VolumetricLightRenderer.cs" />
     <Compile Include="Assets\Simple Scene Fade Load System\Scripts\Fader.cs" />
