@@ -7,11 +7,12 @@ public class VRSlider: MonoBehaviour {
     //How long it takes to fill the slider
     public float filltime = 2f;
     public bool gazedAt = false;
-
+    public GazeRayReciever myRayReciever;
     //Private variables
     private Slider mySlider;
     private float timer;
   
+
     private Coroutine fillBarRoutine;
 
     private float timerRemain;
@@ -20,15 +21,16 @@ public class VRSlider: MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         mySlider = GetComponent<Slider>();
-       // if (mySlider == null) Debug.Log("Please Add a Slider Component to this Gameobject");
+        myRayReciever = GetComponent<GazeRayReciever>();
+        // if (mySlider == null) Debug.Log("Please Add a Slider Component to this Gameobject");
 
-		
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
 
-        if (gazedAt == true)
+        if (myRayReciever.HitByRay == true)
         {
             timer += Time.deltaTime;
             mySlider.value = timer / filltime;
@@ -38,7 +40,7 @@ public class VRSlider: MonoBehaviour {
             }
         }
 
-        if (gazedAt == false)
+        if (myRayReciever.HitByRay == false)
         {
             timer -= Time.deltaTime;
             if (timer < 0)

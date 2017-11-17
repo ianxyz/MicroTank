@@ -9,7 +9,7 @@ public class VRSliderExit : MonoBehaviour {
     //How long it takes to fill the slider
     public float filltime = 2f;
     public bool gazedAt = false;
-
+  public GazeRayReciever myRayReciever;
     //Private variables
     private Slider mySlider;
     private float timer;
@@ -24,7 +24,7 @@ public class VRSliderExit : MonoBehaviour {
     {
         mySlider = GetComponent<Slider>();
         // if (mySlider == null) Debug.Log("Please Add a Slider Component to this Gameobject");
-
+        myRayReciever = GetComponent<GazeRayReciever>();
 
     }
 
@@ -32,7 +32,7 @@ public class VRSliderExit : MonoBehaviour {
     void Update()
     {
 
-        if (gazedAt == true)
+        if (myRayReciever.HitByRay == true)
         {
             timer += Time.deltaTime;
             mySlider.value = timer / filltime;
@@ -42,7 +42,7 @@ public class VRSliderExit : MonoBehaviour {
             }
         }
 
-        if (gazedAt == false)
+        if (myRayReciever.HitByRay == false)
         {
             timer -= Time.deltaTime;
             if (timer < 0)
@@ -51,6 +51,7 @@ public class VRSliderExit : MonoBehaviour {
             }
             mySlider.value = timer / filltime;
         }
+
 
     }
 

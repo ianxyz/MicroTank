@@ -224,7 +224,8 @@
     <Compile Include="Assets\Nurface\GoogleVRAndGearVR\Scripts\VRBuildSettingsOptions.cs" />
     <Compile Include="Assets\Scripts\GazeOver.cs" />
     <Compile Include="Assets\Scripts\GazeRay.cs" />
-    <Compile Include="Assets\Scripts\GazeRayExit.cs" />
+    <Compile Include="Assets\Scripts\GazeRayReciever.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\VRSlider.cs" />
     <Compile Include="Assets\Scripts\VRSlider2MainMenu.cs" />
     <Compile Include="Assets\Scripts\VRSliderExit.cs" />
