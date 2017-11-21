@@ -50,11 +50,15 @@ public class MyWarpPointScript : MonoBehaviour
         [SerializeField]
         private Transform UserPos;
 
+        private GameObject userPosition;
+        private PauseMenu pauseMenuScript;
 
         private void Awake()
         {
             m_Renderer.material = m_NormalMaterial;
-        }
+            userPosition = GameObject.FindWithTag("Player");
+            pauseMenuScript = userPosition.GetComponent<PauseMenu>();
+    }
 
 
         //Handle the Over event
@@ -81,7 +85,8 @@ public class MyWarpPointScript : MonoBehaviour
         //Handle the Click event
         private void HandleClick()
         {
-        
+        if (pauseMenuScript.menuOpen==false)
+        {
             Vector3 pos = transform.position;
 
             UserPos.position = pos;
@@ -91,7 +96,7 @@ public class MyWarpPointScript : MonoBehaviour
             {
                 OnWarp();
             }
-
+        }
         
 
 

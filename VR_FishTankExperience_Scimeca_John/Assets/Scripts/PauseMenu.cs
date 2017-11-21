@@ -5,7 +5,8 @@ using UnityEngine;
 public class PauseMenu : MonoBehaviour {
 
     public GameObject menuObject;
-    private bool menuOpen = false;
+    public GameObject userCam;
+    public bool menuOpen = false;
 
 	// Use this for initialization
 	void Start () {
@@ -24,10 +25,13 @@ public class PauseMenu : MonoBehaviour {
 
             if (menuOpen == true)
             {
+                menuObject.transform.position = transform.position;
+                menuObject.transform.rotation = userCam.transform.rotation;
                 Time.timeScale = 0;
             }
             else
             {
+                
                 Time.timeScale = 1;
      
             }
