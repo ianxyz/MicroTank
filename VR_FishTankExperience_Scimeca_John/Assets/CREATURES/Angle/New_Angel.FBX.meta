@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 97e5413e9d6defd43bf0f50aff763b00
+timeCreated: 1511292586
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Angel_Path
+    100002: Angel_Path001
+    100004: Angel_Root
+    100006: Angle_Controller
+    100008: Angle_fish002
+    100010: Bone001
+    100012: Bone002
+    100014: Bone003
+    100016: Bone004
+    100018: Bone005
+    100020: Bone006
+    100022: Bone007
+    100024: Bone008
+    100026: Bone009
+    100028: Bone010
+    100030: Bone011
+    100032: Bone012
+    100034: Bone013
+    100036: Bone014
+    100038: Bone015
+    100040: Bone016
+    100042: Bone017
+    100044: Bone018
+    100046: Eye_Exterior
+    100048: Eye_Exterior2
+    100050: Eye_Pupil
+    100052: Eye_pupil2
+    100054: LFin_Bone019
+    100056: LFin_Bone020
+    100058: LFin_Bone021
+    100060: LFin_Bone022
+    100062: LFin_Bone023
+    100064: //RootNode
+    100066: RFin_Bone019
+    100068: RFin_Bone020
+    100070: RFin_Bone021
+    100072: RFin_Bone022
+    100074: RFin_Bone023
+    400000: Angel_Path
+    400002: Angel_Path001
+    400004: Angel_Root
+    400006: Angle_Controller
+    400008: Angle_fish002
+    400010: Bone001
+    400012: Bone002
+    400014: Bone003
+    400016: Bone004
+    400018: Bone005
+    400020: Bone006
+    400022: Bone007
+    400024: Bone008
+    400026: Bone009
+    400028: Bone010
+    400030: Bone011
+    400032: Bone012
+    400034: Bone013
+    400036: Bone014
+    400038: Bone015
+    400040: Bone016
+    400042: Bone017
+    400044: Bone018
+    400046: Eye_Exterior
+    400048: Eye_Exterior2
+    400050: Eye_Pupil
+    400052: Eye_pupil2
+    400054: LFin_Bone019
+    400056: LFin_Bone020
+    400058: LFin_Bone021
+    400060: LFin_Bone022
+    400062: LFin_Bone023
+    400064: //RootNode
+    400066: RFin_Bone019
+    400068: RFin_Bone020
+    400070: RFin_Bone021
+    400072: RFin_Bone022
+    400074: RFin_Bone023
+    2300000: Angel_Root
+    2300002: Angle_Controller
+    2300004: Eye_Exterior
+    2300006: Eye_Exterior2
+    2300008: Eye_Pupil
+    2300010: Eye_pupil2
+    3300000: Angel_Root
+    3300002: Angle_Controller
+    3300004: Eye_Exterior
+    3300006: Eye_Exterior2
+    3300008: Eye_Pupil
+    3300010: Eye_pupil2
+    4300000: Angel_Root
+    4300002: Angle_Controller
+    4300004: Angle_fish002
+    4300006: Eye_Exterior
+    4300008: Eye_Pupil
+    4300010: Eye_Exterior2
+    4300012: Eye_pupil2
+    7400000: Angel_take
+    9500000: //RootNode
+    13700000: Angle_fish002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Angel_take
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angel_Path
+        weight: 1
+      - path: Angel_Path001
+        weight: 1
+      - path: Angel_Root
+        weight: 1
+      - path: Angel_Root/Angle_Controller
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Angle_fish002
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone001
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone002
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone003
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone003/Bone004
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007/Bone012
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007/Bone012/Bone013
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007/Bone012/Bone013/Bone008
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007/Bone012/Bone013/Bone008/Bone014
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Bone005/Bone018/Bone017/Bone016/Bone006/Bone011/Bone010/Bone015/Bone007/Bone012/Bone013/Bone008/Bone014/Bone009
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Eye_Exterior
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Eye_Exterior2
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Eye_Pupil
+        weight: 1
+      - path: Angel_Root/Angle_Controller/Eye_pupil2
+        weight: 1
+      - path: Angel_Root/Angle_Controller/LFin_Bone019
+        weight: 1
+      - path: Angel_Root/Angle_Controller/LFin_Bone019/LFin_Bone020
+        weight: 1
+      - path: Angel_Root/Angle_Controller/LFin_Bone019/LFin_Bone020/LFin_Bone021
+        weight: 1
+      - path: Angel_Root/Angle_Controller/LFin_Bone019/LFin_Bone020/LFin_Bone021/LFin_Bone022
+        weight: 1
+      - path: Angel_Root/Angle_Controller/LFin_Bone019/LFin_Bone020/LFin_Bone021/LFin_Bone022/LFin_Bone023
+        weight: 1
+      - path: Angel_Root/Angle_Controller/RFin_Bone019
+        weight: 1
+      - path: Angel_Root/Angle_Controller/RFin_Bone019/RFin_Bone020
+        weight: 1
+      - path: Angel_Root/Angle_Controller/RFin_Bone019/RFin_Bone020/RFin_Bone021
+        weight: 1
+      - path: Angel_Root/Angle_Controller/RFin_Bone019/RFin_Bone020/RFin_Bone021/RFin_Bone022
+        weight: 1
+      - path: Angel_Root/Angle_Controller/RFin_Bone019/RFin_Bone020/RFin_Bone021/RFin_Bone022/RFin_Bone023
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
