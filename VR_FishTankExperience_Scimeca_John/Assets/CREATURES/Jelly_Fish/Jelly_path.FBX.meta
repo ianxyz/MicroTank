@@ -1,25 +1,16 @@
 fileFormatVersion: 2
-guid: d2e776d8f9a624d4daadcbe61bd8f38d
-timeCreated: 1507668348
+guid: 8b24543308e64e04baa8eeaa9451871b
+timeCreated: 1511418874
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Bone015
-    100002: Jelly_Body
-    100004: Jelly_Body001
-    100006: //RootNode
-    400000: Bone015
-    400002: Jelly_Body
-    400004: Jelly_Body001
-    400006: //RootNode
-    2300000: Jelly_Body
-    2300002: Jelly_Body001
-    3300000: Jelly_Body
-    3300002: Jelly_Body001
-    4300000: Jelly_Body
-    4300002: Jelly_Body001
-    7400000: Jelly_Head_Loop
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Jelly_Path
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -45,7 +36,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Jelly_Head_Loop
+      name: Take 001
       takeName: Take 001
       firstFrame: 0
       lastFrame: 300
@@ -70,12 +61,6 @@ ModelImporter:
       events: []
       transformMask:
       - path: 
-        weight: 1
-      - path: Bone015
-        weight: 1
-      - path: Jelly_Body
-        weight: 1
-      - path: Jelly_Body/Jelly_Body001
         weight: 1
       maskType: 3
       maskSource: {instanceID: 0}
