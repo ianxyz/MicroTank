@@ -93,6 +93,8 @@
     <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\CurvedUI\Demo Scenes\Demo Scenes Content\OverlayBlend.shader" />
+    <None Include="Assets\CurvedUI\Shaders and Materials\UIAlwaysOnTop.shader" />
     <None Include="Assets\Glass Shaders\Demo\Font\3D Texte 1Sided 1.shader" />
     <None Include="Assets\Glass Shaders\Double Sided Glass (Advanced).shader" />
     <None Include="Assets\Glass Shaders\Double Sided Glass (Fast).shader" />
