@@ -260,6 +260,7 @@
     <Compile Include="Assets\Nurface\DemoAssets\Scripts\DemoSceneLoader.cs" />
     <Compile Include="Assets\Nurface\DemoAssets\Scripts\EditorMouseLook.cs" />
     <Compile Include="Assets\Nurface\GoogleVRAndGearVR\Scripts\VRBuildSettingsOptions.cs" />
+    <Compile Include="Assets\Scripts\EasyController.cs" />
     <Compile Include="Assets\Scripts\GazeOver.cs" />
     <Compile Include="Assets\Scripts\GazeRay.cs" />
     <Compile Include="Assets\Scripts\GazeRayReciever.cs" />

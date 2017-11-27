@@ -83,7 +83,7 @@ public class MyWarpPointScript : MonoBehaviour
 
 
         //Handle the Click event
-        private void HandleClick()
+      public void HandleClick()
         {
         if (pauseMenuScript.menuOpen==false)
         {
