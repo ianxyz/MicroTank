@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: ffcbabbefd374ff4f91702f4ec842c71
+timeCreated: 1511988529
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_Bone03
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone007
+    100016: Bone008
+    100018: Bone009
+    100020: Bone010
+    100022: Bone011
+    100024: Bone012
+    100026: Bone013
+    100028: Bone014
+    100030: Bone015
+    100032: Bone016
+    100034: Bone017
+    100036: Bone018
+    100038: Bone019
+    100040: Bone020
+    100042: Bone_End_16
+    100044: Bone_End_17
+    100046: Bone_End_18
+    100048: Clover02_Bone_01
+    100050: Clover02_Bone_02
+    100052: Clover02_Bone_03
+    100054: Clover02_Bone_04
+    100056: Clover02_Bone_05
+    100058: Clover02_Bone_06
+    100060: Clover02_Bone_07
+    100062: Clover02_Bone_08
+    100064: Clover02_Bone_09
+    100066: Clover02_Bone_10
+    100068: Clover02_Bone_11
+    100070: Clover02_Bone_12
+    100072: Clover02_Bone_13
+    100074: Clover02_Bone_14
+    100076: Clover02_Bone_End
+    100078: Clover02_Controller
+    100080: Clover03_Bone_01
+    100082: Clover03_Bone_02
+    100084: Clover03_Bone_03
+    100086: Clover03_Bone_04
+    100088: Clover03_Bone_05
+    100090: Clover03_Bone_06
+    100092: Clover03_Bone_07
+    100094: Clover03_Bone_08
+    100096: Clover03_Bone_09
+    100098: Clover03_Bone_10
+    100100: Clover03_Bone_11
+    100102: Clover03_Bone_12
+    100104: Clover03_Bone_13
+    100106: Clover03_Bone_14
+    100108: Clover03_Bone_End
+    100110: Clover03_Controller
+    100112: Clover_05
+    100114: Clover_06
+    100116: Clover_07
+    100118: Dummy001
+    100120: Eye_Gloss025
+    100122: Eye_Gloss026
+    100124: Fin_Bone03
+    100126: Head_Bone_16
+    100128: Neck_Bone03
+    100130: RT_Eye_AM024
+    100132: RT_Eye_AM025
+    100134: //RootNode
+    100136: Seahorse_016
+    100138: Sphere001
+    100140: Sphere002
+    100142: Tail_Bone03_01
+    100144: Tail_Bone03_02
+    100146: Tail_Bone03_03
+    100148: Tail_Bone03_04
+    100150: Tail_Bone03_05
+    100152: Tail_Bone03_06
+    100154: Tail_Bone03_07
+    400000: Body_Bone03
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone007
+    400016: Bone008
+    400018: Bone009
+    400020: Bone010
+    400022: Bone011
+    400024: Bone012
+    400026: Bone013
+    400028: Bone014
+    400030: Bone015
+    400032: Bone016
+    400034: Bone017
+    400036: Bone018
+    400038: Bone019
+    400040: Bone020
+    400042: Bone_End_16
+    400044: Bone_End_17
+    400046: Bone_End_18
+    400048: Clover02_Bone_01
+    400050: Clover02_Bone_02
+    400052: Clover02_Bone_03
+    400054: Clover02_Bone_04
+    400056: Clover02_Bone_05
+    400058: Clover02_Bone_06
+    400060: Clover02_Bone_07
+    400062: Clover02_Bone_08
+    400064: Clover02_Bone_09
+    400066: Clover02_Bone_10
+    400068: Clover02_Bone_11
+    400070: Clover02_Bone_12
+    400072: Clover02_Bone_13
+    400074: Clover02_Bone_14
+    400076: Clover02_Bone_End
+    400078: Clover02_Controller
+    400080: Clover03_Bone_01
+    400082: Clover03_Bone_02
+    400084: Clover03_Bone_03
+    400086: Clover03_Bone_04
+    400088: Clover03_Bone_05
+    400090: Clover03_Bone_06
+    400092: Clover03_Bone_07
+    400094: Clover03_Bone_08
+    400096: Clover03_Bone_09
+    400098: Clover03_Bone_10
+    400100: Clover03_Bone_11
+    400102: Clover03_Bone_12
+    400104: Clover03_Bone_13
+    400106: Clover03_Bone_14
+    400108: Clover03_Bone_End
+    400110: Clover03_Controller
+    400112: Clover_05
+    400114: Clover_06
+    400116: Clover_07
+    400118: Dummy001
+    400120: Eye_Gloss025
+    400122: Eye_Gloss026
+    400124: Fin_Bone03
+    400126: Head_Bone_16
+    400128: Neck_Bone03
+    400130: RT_Eye_AM024
+    400132: RT_Eye_AM025
+    400134: //RootNode
+    400136: Seahorse_016
+    400138: Sphere001
+    400140: Sphere002
+    400142: Tail_Bone03_01
+    400144: Tail_Bone03_02
+    400146: Tail_Bone03_03
+    400148: Tail_Bone03_04
+    400150: Tail_Bone03_05
+    400152: Tail_Bone03_06
+    400154: Tail_Bone03_07
+    2300000: Eye_Gloss025
+    2300002: Eye_Gloss026
+    2300004: RT_Eye_AM024
+    2300006: RT_Eye_AM025
+    2300008: Sphere001
+    2300010: Sphere002
+    3300000: Eye_Gloss025
+    3300002: Eye_Gloss026
+    3300004: RT_Eye_AM024
+    3300006: RT_Eye_AM025
+    3300008: Sphere001
+    3300010: Sphere002
+    4300000: Clover_05
+    4300002: Clover_06
+    4300004: Clover_07
+    4300006: Seahorse_016
+    4300008: Eye_Gloss026
+    4300010: RT_Eye_AM025
+    4300012: RT_Eye_AM024
+    4300014: Eye_Gloss025
+    4300016: Sphere002
+    4300018: Sphere001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Clover_05
+    13700002: Clover_06
+    13700004: Clover_07
+    13700006: Seahorse_016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016/Bone017
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016/Bone017/Bone018
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016/Bone017/Bone018/Bone019
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: Clover02_Controller
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10/Clover02_Bone_11
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10/Clover02_Bone_11/Clover02_Bone_12
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10/Clover02_Bone_11/Clover02_Bone_12/Clover02_Bone_13
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10/Clover02_Bone_11/Clover02_Bone_12/Clover02_Bone_13/Clover02_Bone_14
+        weight: 1
+      - path: Clover02_Controller/Clover02_Bone_01/Clover02_Bone_02/Clover02_Bone_03/Clover02_Bone_04/Clover02_Bone_05/Clover02_Bone_06/Clover02_Bone_07/Clover02_Bone_08/Clover02_Bone_09/Clover02_Bone_10/Clover02_Bone_11/Clover02_Bone_12/Clover02_Bone_13/Clover02_Bone_14/Clover02_Bone_End
+        weight: 1
+      - path: Clover03_Controller
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10/Clover03_Bone_11
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10/Clover03_Bone_11/Clover03_Bone_12
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10/Clover03_Bone_11/Clover03_Bone_12/Clover03_Bone_13
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10/Clover03_Bone_11/Clover03_Bone_12/Clover03_Bone_13/Clover03_Bone_14
+        weight: 1
+      - path: Clover03_Controller/Clover03_Bone_01/Clover03_Bone_02/Clover03_Bone_03/Clover03_Bone_04/Clover03_Bone_05/Clover03_Bone_06/Clover03_Bone_07/Clover03_Bone_08/Clover03_Bone_09/Clover03_Bone_10/Clover03_Bone_11/Clover03_Bone_12/Clover03_Bone_13/Clover03_Bone_14/Clover03_Bone_End
+        weight: 1
+      - path: Clover_05
+        weight: 1
+      - path: Clover_06
+        weight: 1
+      - path: Clover_07
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Dummy001/Fin_Bone03
+        weight: 1
+      - path: Dummy001/Fin_Bone03/Bone_End_17
+        weight: 1
+      - path: Dummy001/Head_Bone_16
+        weight: 1
+      - path: Dummy001/Head_Bone_16/Bone_End_16
+        weight: 1
+      - path: Dummy001/Head_Bone_16/Eye_Gloss025
+        weight: 1
+      - path: Dummy001/Head_Bone_16/Eye_Gloss026
+        weight: 1
+      - path: Dummy001/Head_Bone_16/RT_Eye_AM024
+        weight: 1
+      - path: Dummy001/Head_Bone_16/RT_Eye_AM025
+        weight: 1
+      - path: Dummy001/Head_Bone_16/Sphere001
+        weight: 1
+      - path: Dummy001/Head_Bone_16/Sphere002
+        weight: 1
+      - path: Dummy001/Neck_Bone03
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03/Tail_Bone03_04
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03/Tail_Bone03_04/Tail_Bone03_05
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03/Tail_Bone03_04/Tail_Bone03_05/Tail_Bone03_06
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03/Tail_Bone03_04/Tail_Bone03_05/Tail_Bone03_06/Tail_Bone03_07
+        weight: 1
+      - path: Dummy001/Neck_Bone03/Body_Bone03/Tail_Bone03_01/Tail_Bone03_02/Tail_Bone03_03/Tail_Bone03_04/Tail_Bone03_05/Tail_Bone03_06/Tail_Bone03_07/Bone_End_18
+        weight: 1
+      - path: Seahorse_016
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
