@@ -9,22 +9,30 @@ public class MyWarpPointScript : MonoBehaviour
     [SerializeField]
     private GameObject thisWarpPoint;
 
-    
+    public GameObject rightController;
 
     public delegate void WarpAction();
     public static event WarpAction OnWarp;
 
-
+    private bool lookedAtMe = false;
     [SerializeField] private VRInteractiveItem m_InteractiveItem;
 
 
-        
+    private SteamVR_TrackedController device;
+    private void Start()
+    {
+       // rightController = GameObject.FindWithTag("RightController");
+        device = rightController.GetComponent<SteamVR_TrackedController>();
+        device.TriggerClicked += Trigger;
+    }
 
-        private void OnEnable()
+
+
+    private void OnEnable()
         {
             m_InteractiveItem.OnOver += HandleOver;
             m_InteractiveItem.OnOut += HandleOut;
-            m_InteractiveItem.OnClick += HandleClick;
+           // m_InteractiveItem.OnClick += HandleClick;
       
         }
 
@@ -32,7 +40,7 @@ public class MyWarpPointScript : MonoBehaviour
         {
             m_InteractiveItem.OnOver -= HandleOver;
             m_InteractiveItem.OnOut -= HandleOut;
-            m_InteractiveItem.OnClick -= HandleClick;
+           // m_InteractiveItem.OnClick -= HandleClick;
         }
 
         
@@ -51,13 +59,13 @@ public class MyWarpPointScript : MonoBehaviour
         private Transform UserPos;
 
         private GameObject userPosition;
-        private PauseMenu pauseMenuScript;
+        public EasyController easyControllerScript;
 
         private void Awake()
         {
             m_Renderer.material = m_NormalMaterial;
             userPosition = GameObject.FindWithTag("Player");
-            pauseMenuScript = userPosition.GetComponent<PauseMenu>();
+            easyControllerScript = rightController.GetComponent<EasyController>();
     }
 
 
@@ -67,7 +75,7 @@ public class MyWarpPointScript : MonoBehaviour
         
             Debug.Log("Show over state");
             m_Renderer.material = m_OverMaterial;
-        
+        lookedAtMe = true;
 
         }
 
@@ -77,31 +85,34 @@ public class MyWarpPointScript : MonoBehaviour
         {
             Debug.Log("Show out state");
             m_Renderer.material = m_NormalMaterial;
-
+        lookedAtMe = false;
 
         }
 
 
-        //Handle the Click event
-      public void HandleClick()
+    //Handle the Click event
+    void Trigger(object sender, ClickedEventArgs e)
+    {
+        if (lookedAtMe == true)
         {
-        if (pauseMenuScript.menuOpen==false)
-        {
-            Vector3 pos = transform.position;
-
-            UserPos.position = pos;
-
-            //start a camera fade
-            if (OnWarp != null)
+            if (easyControllerScript.menuOpen == false)
             {
-                OnWarp();
+                Vector3 pos = transform.position;
+
+                UserPos.position = pos;
+
+                //start a camera fade
+                if (OnWarp != null)
+                {
+                    OnWarp();
+                }
             }
         }
+    }
+
+
+
         
-
-
-
-        }
 
 
     void OnTriggerEnter(Collider other)
