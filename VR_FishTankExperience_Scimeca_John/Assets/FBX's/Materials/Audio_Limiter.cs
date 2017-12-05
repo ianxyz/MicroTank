@@ -5,6 +5,7 @@ using UnityEngine;
 public class Audio_Limiter : MonoBehaviour {
 
     public AudioSource AudioWater;
+    public GameObject Bubbleparticle;
 
 	// Use this for initialization
 	void Start () {
@@ -18,6 +19,7 @@ public class Audio_Limiter : MonoBehaviour {
             {
             Debug.Log("It happened.");
             AudioWater.volume = 0;
+            Bubbleparticle.SetActive(false);
 
         }
 
@@ -28,6 +30,7 @@ public class Audio_Limiter : MonoBehaviour {
         {
             Debug.Log("It un-happened.");
             AudioWater.volume = 1;
+            Bubbleparticle.SetActive(false);
         }
     }
 }
